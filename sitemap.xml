@@ -116,7 +116,7 @@
   </url>
   
   <url>
-    <loc>https://yhc2538.github.io/tags/AP325/</loc>
+    <loc>https://yhc2538.github.io/tags/3-STAR/</loc>
     <lastmod>2022-05-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -124,20 +124,6 @@
   
   <url>
     <loc>https://yhc2538.github.io/tags/Classic/</loc>
-    <lastmod>2022-05-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://yhc2538.github.io/tags/1-STAR/</loc>
-    <lastmod>2022-05-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://yhc2538.github.io/tags/3-STAR/</loc>
     <lastmod>2022-05-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -152,6 +138,20 @@
   
   <url>
     <loc>https://yhc2538.github.io/tags/TCIRC/</loc>
+    <lastmod>2022-05-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://yhc2538.github.io/tags/AP325/</loc>
+    <lastmod>2022-05-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://yhc2538.github.io/tags/1-STAR/</loc>
     <lastmod>2022-05-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
