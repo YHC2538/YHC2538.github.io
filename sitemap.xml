@@ -144,13 +144,6 @@
   </url>
   
   <url>
-    <loc>https://yhc2538.github.io/tags/%E5%A4%A7%E5%AD%B8/</loc>
-    <lastmod>2023-10-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://yhc2538.github.io/tags/AP325/</loc>
     <lastmod>2023-10-23</lastmod>
     <changefreq>weekly</changefreq>
@@ -165,14 +158,14 @@
   </url>
   
   <url>
-    <loc>https://yhc2538.github.io/tags/TIOJ/</loc>
+    <loc>https://yhc2538.github.io/tags/%E5%A4%A7%E5%AD%B8/</loc>
     <lastmod>2023-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://yhc2538.github.io/tags/TCGS/</loc>
+    <loc>https://yhc2538.github.io/tags/UVa/</loc>
     <lastmod>2023-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -200,7 +193,21 @@
   </url>
   
   <url>
+    <loc>https://yhc2538.github.io/tags/TIOJ/</loc>
+    <lastmod>2023-10-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://yhc2538.github.io/tags/4-STAR/</loc>
+    <lastmod>2023-10-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://yhc2538.github.io/tags/TCGS/</loc>
     <lastmod>2023-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -229,13 +236,6 @@
   
   <url>
     <loc>https://yhc2538.github.io/tags/Testing-Tag/</loc>
-    <lastmod>2023-10-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://yhc2538.github.io/tags/UVa/</loc>
     <lastmod>2023-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
